@@ -56,6 +56,12 @@
   margin: 10px;
   align-self: center;
 }
+.flex-legend {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
 .flex-listas {
   display: flex;
   justify-content: center;
