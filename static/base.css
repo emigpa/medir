@@ -97,6 +97,7 @@ div.awesomplete > ul {
 .flex-nave {
   display: flex;
   justify-content: space-between;
+  align-content: center;
 }
 .flex-nave-item:nth-child(1) {
   flex-basis: 15%;
