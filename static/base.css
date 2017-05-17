@@ -102,7 +102,11 @@ div.awesomplete > ul {
 .flex-nave-item:nth-child(1) {
   flex-basis: 15%;
 }
-
+.md-button {
+display: flex;
+align-content: center;
+justify-content: center;
+}
 @media only screen and (min-width: 801px) {
   .flex-charts {
     flex-direction: row;
