@@ -1,17 +1,7 @@
 [
   {
-    "apellido": "ACQUARONI",
-    "nombre": "MARIA DE LAS MERCEDES",
-    "organizacion": "IIIA"
-  },
-  {
     "apellido": "ASPARCH",
     "nombre": "YAMILA",
-    "organizacion": "IIIA"
-  },
-  {
-    "apellido": "BRANCOLINI",
-    "nombre": "FLORENCIA",
     "organizacion": "IIIA"
   },
   {
@@ -90,11 +80,6 @@
     "organizacion": "IIIA"
   },
   {
-    "apellido": "ROSSLER",
-    "nombre": "CRISTINA",
-    "organizacion": "IIIA"
-  },
-  {
     "apellido": "SANCHEZ PROAÑO",
     "nombre": "PAULA",
     "organizacion": "IIIA"
@@ -150,11 +135,6 @@
     "organizacion": "ECYT"
   },
   {
-    "apellido": "ALVAREZ",
-    "nombre": "NICOLAS",
-    "organizacion": "ECYT"
-  },
-  {
     "apellido": "ARAGON",
     "nombre": "ADRIANA JUDITH",
     "organizacion": "ECYT"
@@ -190,7 +170,7 @@
     "organizacion": "ECYT"
   },
   {
-    "apellido": "BONAVENTURA ",
+    "apellido": "BONAVENTURA",
     "nombre": "MARIA MARTA",
     "organizacion": "ECYT"
   },
@@ -255,11 +235,6 @@
     "organizacion": "ECYT"
   },
   {
-    "apellido": "ERMANN",
-    "nombre": "LEONARDO",
-    "organizacion": "ECYT"
-  },
-  {
     "apellido": "GARCIA",
     "nombre": "FEDERICO",
     "organizacion": "ECYT"
@@ -282,11 +257,6 @@
   {
     "apellido": "JENSEN MARINI",
     "nombre": "SANTIAGO NICOLAS",
-    "organizacion": "ECYT"
-  },
-  {
-    "apellido": "PLATINO",
-    "nombre": "MANUEL",
     "organizacion": "ECYT"
   },
   {
@@ -320,18 +290,8 @@
     "organizacion": "ECYT"
   },
   {
-    "apellido": "CASTILLA",
-    "nombre": "MARÍA VICTORIA",
-    "organizacion": "IDAES"
-  },
-  {
     "apellido": "CHUMBITA",
     "nombre": "JOAN",
-    "organizacion": "IDAES"
-  },
-  {
-    "apellido": "D'ANGELO",
-    "nombre": "NAHUEL",
     "organizacion": "IDAES"
   },
   {
@@ -640,11 +600,6 @@
     "organizacion": "IIB"
   },
   {
-    "apellido": "ABRAMOVICH",
-    "nombre": "LEONARDO",
-    "organizacion": "EH"
-  },
-  {
     "apellido": "ADUR",
     "nombre": "LUCAS",
     "organizacion": "EH"
@@ -680,11 +635,6 @@
     "organizacion": "EH"
   },
   {
-    "apellido": "COSOVSCHI",
-    "nombre": "AGUSTÍN",
-    "organizacion": "EH"
-  },
-  {
     "apellido": "FABIAN",
     "nombre": "GISELLA",
     "organizacion": "EH"
@@ -692,11 +642,6 @@
   {
     "apellido": "FLAX",
     "nombre": "ROCIO",
-    "organizacion": "EH"
-  },
-  {
-    "apellido": "GIANNESCHI",
-    "nombre": "HORACIO",
     "organizacion": "EH"
   },
   {
@@ -752,11 +697,6 @@
   {
     "apellido": "SOUZA",
     "nombre": "PABLO",
-    "organizacion": "EH"
-  },
-  {
-    "apellido": "SURTAYEVA",
-    "nombre": "SOFYA",
     "organizacion": "EH"
   },
   {
