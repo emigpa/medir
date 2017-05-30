@@ -285,11 +285,6 @@
     "organizacion": "ECYT"
   },
   {
-    "apellido": "TORTAROLO",
-    "nombre": "MARINA",
-    "organizacion": "ECYT"
-  },
-  {
     "apellido": "CHUMBITA",
     "nombre": "JOAN",
     "organizacion": "IDAES"
@@ -605,11 +600,6 @@
     "organizacion": "EH"
   },
   {
-    "apellido": "AGUILAR",
-    "nombre": "GONZALO",
-    "organizacion": "EH"
-  },
-  {
     "apellido": "ARIGANELLO",
     "nombre": "MARÍA JIMENA",
     "organizacion": "EH"
@@ -665,11 +655,6 @@
     "organizacion": "EH"
   },
   {
-    "apellido": "MARTÍNEZ PERIA",
-    "nombre": "JUAN FRANCISCO",
-    "organizacion": "EH"
-  },
-  {
     "apellido": "MASSARE",
     "nombre": "BRUNO",
     "organizacion": "EH"
@@ -695,11 +680,6 @@
     "organizacion": "EH"
   },
   {
-    "apellido": "SOUZA",
-    "nombre": "PABLO",
-    "organizacion": "EH"
-  },
-  {
     "apellido": "VILAR",
     "nombre": "MARIANO",
     "organizacion": "EH"
@@ -707,11 +687,6 @@
   {
     "apellido": "WEISS",
     "nombre": "CANDELA",
-    "organizacion": "EH"
-  },
-  {
-    "apellido": "ZUBELDÍA BRENNE",
-    "nombre": "LAUTARO",
     "organizacion": "EH"
   }
 ]
