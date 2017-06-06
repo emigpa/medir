@@ -90,11 +90,6 @@
     "organizacion": "IIIA"
   },
   {
-    "apellido": "SFARA",
-    "nombre": "VALERIA",
-    "organizacion": "IIIA"
-  },
-  {
     "apellido": "SLODOWICZ",
     "nombre": "MARIEL",
     "organizacion": "IIIA"
@@ -120,11 +115,6 @@
     "organizacion": "IIIA"
   },
   {
-    "apellido": "ZILIANI",
-    "nombre": "AGUSTINA",
-    "organizacion": "IIIA"
-  },
-  {
     "apellido": "ABALOVICH",
     "nombre": "ADRIAN GUSTAVO",
     "organizacion": "ECYT"
@@ -132,11 +122,6 @@
   {
     "apellido": "ALCAR",
     "nombre": "RAMIRO DE LA CRUZ",
-    "organizacion": "ECYT"
-  },
-  {
-    "apellido": "ARAGON",
-    "nombre": "ADRIANA JUDITH",
     "organizacion": "ECYT"
   },
   {
@@ -177,11 +162,6 @@
   {
     "apellido": "BREIER",
     "nombre": "KAREN LORELEY",
-    "organizacion": "ECYT"
-  },
-  {
-    "apellido": "BRUSA",
-    "nombre": "MARCOS",
     "organizacion": "ECYT"
   },
   {
@@ -250,11 +230,6 @@
     "organizacion": "ECYT"
   },
   {
-    "apellido": "IRIEL",
-    "nombre": "ANALIA",
-    "organizacion": "ECYT"
-  },
-  {
     "apellido": "JENSEN MARINI",
     "nombre": "SANTIAGO NICOLAS",
     "organizacion": "ECYT"
@@ -262,11 +237,6 @@
   {
     "apellido": "ROURA BAS",
     "nombre": "PABLO GINES",
-    "organizacion": "ECYT"
-  },
-  {
-    "apellido": "SALVUCCI",
-    "nombre": "FERNANDO PABLO",
     "organizacion": "ECYT"
   },
   {
@@ -315,16 +285,6 @@
     "organizacion": "IDAES"
   },
   {
-    "apellido": "PATIÑO MAYER",
-    "nombre": "LUCIA",
-    "organizacion": "IK"
-  },
-  {
-    "apellido": "TRAVNIK",
-    "nombre": "JOSE",
-    "organizacion": "IK"
-  },
-  {
     "apellido": "BRIL MASCARENHAS",
     "nombre": "TOMÁS",
     "organizacion": "EPYG"
@@ -342,11 +302,6 @@
   {
     "apellido": "ALBERTI",
     "nombre": "MARIA MELISA",
-    "organizacion": "IIB"
-  },
-  {
-    "apellido": "ANTONELLI",
-    "nombre": "CRISTIÁN EZEQUIEL JAVIER",
     "organizacion": "IIB"
   },
   {
@@ -390,11 +345,6 @@
     "organizacion": "IIB"
   },
   {
-    "apellido": "CARRA",
-    "nombre": "MARIANGELES",
-    "organizacion": "IIB"
-  },
-  {
     "apellido": "CASO",
     "nombre": "DANIEL EDUARDO",
     "organizacion": "IIB"
@@ -430,16 +380,6 @@
     "organizacion": "IIB"
   },
   {
-    "apellido": "GAZQUEZ",
-    "nombre": "AYELÉN",
-    "organizacion": "IIB"
-  },
-  {
-    "apellido": "GUAIMAS",
-    "nombre": "FRANCISCO FERNANDO",
-    "organizacion": "IIB"
-  },
-  {
     "apellido": "HERDMAN",
     "nombre": "JAVIER",
     "organizacion": "IIB"
@@ -450,11 +390,6 @@
     "organizacion": "IIB"
   },
   {
-    "apellido": "LEMEILLET",
-    "nombre": "AILÍN",
-    "organizacion": "IIB"
-  },
-  {
     "apellido": "LÓPEZ",
     "nombre": "PAULA VERÓNICA",
     "organizacion": "IIB"
@@ -462,16 +397,6 @@
   {
     "apellido": "MACORETTA",
     "nombre": "CHRISTIAN",
-    "organizacion": "IIB"
-  },
-  {
-    "apellido": "MALAMUD",
-    "nombre": "FLORENCIA",
-    "organizacion": "IIB"
-  },
-  {
-    "apellido": "MANESE",
-    "nombre": "MARIA VICTORIA",
     "organizacion": "IIB"
   },
   {
@@ -560,11 +485,6 @@
     "organizacion": "IIB"
   },
   {
-    "apellido": "SABALETTE",
-    "nombre": "KARINA",
-    "organizacion": "IIB"
-  },
-  {
     "apellido": "SÁNCHEZ VÁSQUEZ",
     "nombre": "ESTEFANÍA",
     "organizacion": "IIB"
@@ -585,16 +505,6 @@
     "organizacion": "EH"
   },
   {
-    "apellido": "ARIGANELLO",
-    "nombre": "MARÍA JIMENA",
-    "organizacion": "EH"
-  },
-  {
-    "apellido": "BARETTA",
-    "nombre": "MÓNICA",
-    "organizacion": "EH"
-  },
-  {
     "apellido": "CORDO RUSSO",
     "nombre": "LUCIANA",
     "organizacion": "EH"
@@ -605,18 +515,8 @@
     "organizacion": "EH"
   },
   {
-    "apellido": "FLAX",
-    "nombre": "ROCIO",
-    "organizacion": "EH"
-  },
-  {
     "apellido": "HERAS",
     "nombre": "ANA INÉS",
-    "organizacion": "EH"
-  },
-  {
-    "apellido": "KERN",
-    "nombre": "ALEJANDRA",
     "organizacion": "EH"
   },
   {
@@ -627,11 +527,6 @@
   {
     "apellido": "LÓPEZ PALMER",
     "nombre": "MALENA",
-    "organizacion": "EH"
-  },
-  {
-    "apellido": "MASSARE",
-    "nombre": "BRUNO",
     "organizacion": "EH"
   },
   {
